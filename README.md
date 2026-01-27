@@ -3,9 +3,6 @@
 ### 👨‍💻 Angular GDE | Senior Frontend Engineer | Google for Startups Accelerator Mentor
 
 I am a passionate **Senior Frontend Engineer** and a **Mentor for the Google for Startups Accelerator program** with a focus on building high-performance, scalable, and user-centric web applications. As an **Angular Google Developer Expert (GDE)**, I am deeply involved in the developer ecosystem, sharing knowledge and advocating for best practices in modern web development.
-
-At **Flutterwave**, I specialize in building enterprise-grade fintech solutions, including multi-tenant dashboards that serve thousands of users across the continent. I thrive on architecting complex systems and delivering seamless user experiences in the fast-paced world of fintech.
-
 ---
 
 ### 🛠️ Tech Stack & Expertise
