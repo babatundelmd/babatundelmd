@@ -27,13 +27,11 @@ At **Flutterwave**, I specialize in building enterprise-grade fintech solutions,
 - [**ngx-toast-alerts**](https://github.com/babatundelmd/ngx-toast-alerts)
   - Lightweight and customizable Angular Toast Alerts.
 - [**Angular Signal Form Generator**](https://github.com/babatundelmd/angular-signal-form-generator)
-  - A VS Code extension to generate Angular Signal Forms from interfaces.
+  - A vscode extension to generate Angular Signal Forms from interfaces.
 - [**PixelMedic**](https://github.com/babatundelmd/pixelmedic)
   - Modern healthcare management platform.
 - [**ng-content-generator**](https://github.com/babatundelmd/ng-content-generator)
   - An intelligent content generation platform built with Angular and Gemini AI.
-- [**Angular Signal Forms Demo**](https://github.com/babatundelmd/angular-signal-forms-demo)
-  - Exploring the future of Angular forms with Signal-based reactivity.
 
 ---
 
