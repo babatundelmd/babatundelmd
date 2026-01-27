@@ -1,6 +1,6 @@
 # Hi there, I'm Babatunde 👋
 
-### 👨‍💻 Angular GDE | Senior Frontend Engineer @ Flutterwave | Google for Startups Accelerator Mentor
+### 👨‍💻 Angular GDE | Senior Frontend Engineer | Google for Startups Accelerator Mentor
 
 I am a passionate **Senior Frontend Engineer** and a **Mentor for the Google for Startups Accelerator program** with a focus on building high-performance, scalable, and user-centric web applications. As an **Angular Google Developer Expert (GDE)**, I am deeply involved in the developer ecosystem, sharing knowledge and advocating for best practices in modern web development.
 
