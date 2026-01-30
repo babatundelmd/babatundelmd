@@ -31,7 +31,7 @@ I am a passionate **Senior Frontend Engineer** and a **Mentor for the Google for
 
 I love sharing my journey and technical insights with the community. You can find my tutorials and talks here:
 
-- **YouTube**: [Babatunde Lamidi](https://www.youtube.com/@babatundelamidi) - Mastering Modern Frontend Series.
+- **YouTube**: [Babatunde Lamidi](https://www.youtube.com/@babatundelmd) - Mastering Modern Frontend Series.
 - **DevFest Talks 2025**:
   - [**DevFest Akure**](https://www.instagram.com/p/DRm0CJaDIF4/?igsh=YTlwZXA0MDRkcjMw)
   - [**DevFest Ado-Ekiti**](https://www.instagram.com/p/DQ_uJdljOpj/?igsh=MWxvYm54NWpieWZ3ZA==)
@@ -44,7 +44,7 @@ I love sharing my journey and technical insights with the community. You can fin
 I regularly write about Angular, performance, and modern web architecture.
 
 - **Latest Article**: [**Signals and the Resource API in Angular: Let's Go Reactive**](https://medium.com/@babatundelamidi/signals-and-the-resource-api-in-angular-lets-go-reactive-8ace6a3c5bfa)
-- **Medium Profile**: [@babatundelamidi](https://medium.com/@babatundelmd)
+- **Medium Profile**: [@babatundelamidi](https://medium.com/@babatundelamidi)
 
 ---
 
