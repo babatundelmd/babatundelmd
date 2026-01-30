@@ -44,7 +44,7 @@ I love sharing my journey and technical insights with the community. You can fin
 I regularly write about Angular, performance, and modern web architecture.
 
 - **Latest Article**: [**Signals and the Resource API in Angular: Let's Go Reactive**](https://medium.com/@babatundelamidi/signals-and-the-resource-api-in-angular-lets-go-reactive-8ace6a3c5bfa)
-- **Medium Profile**: [@babatundelamidi](https://medium.com/@babatundelamidi)
+- **Medium Profile**: [@babatundelamidi](https://medium.com/@babatundelmd)
 
 ---
 
