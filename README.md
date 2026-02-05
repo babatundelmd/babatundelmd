@@ -1,3 +1,5 @@
+![Profile Views](https://komarev.com/ghpvc/?username=babatundelmd&color=blueviolet&style=flat-square)
+
 # Hi there, I'm Babatunde 👋
 
 ### 👨‍💻 Angular GDE | Senior Frontend Engineer | Google for Startups Accelerator Mentor
