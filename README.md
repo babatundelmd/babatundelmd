@@ -1,6 +1,6 @@
 # Hi there, I'm Babatunde 👋
 
-### 👨‍💻 Angular GDE | Senior Frontend Engineer | | 1000+ Developers Trained | Google for Startups Accelerator Mentor
+### 👨‍💻 Angular GDE | Senior Frontend Engineer | 1000+ Developers Trained | Google for Startups Accelerator Mentor
 
 I build high-performance, scalable web applications and help developers across Africa level up through mentorship and community programs.
 ---
