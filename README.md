@@ -1,8 +1,22 @@
 # Hi there, I'm Babatunde 👋
 
-### 👨‍💻 Angular GDE | Senior Frontend Engineer | Google for Startups Accelerator Mentor
+### 👨‍💻 Angular GDE | Senior Frontend Engineer | | 1000+ Developers Trained | Google for Startups Accelerator Mentor
 
-I am a passionate **Senior Frontend Engineer** and a **Mentor for the Google for Startups Accelerator program** with a focus on building high-performance, scalable, and user-centric web applications. As an **Angular Google Developer Expert (GDE)**, I am deeply involved in the developer ecosystem, sharing knowledge and advocating for best practices in modern web development.
+I build high-performance, scalable web applications and help developers across Africa level up through mentorship and community programs.
+---
+
+### 🌍 Community Impact
+
+| Program | Role | Impact |
+|---------|------|--------|
+| **GDG Ojo-Festac** | Lead (2018–2025) | 7 years organizing events, workshops, and study jams |
+| **Andela Learning Community** | Mentor (Cohorts 1, 2, 3) | Trained hundreds of developers across multiple cohorts |
+| **Google Student Ambassador** | Ambassador | Campus outreach and developer education |
+| **Google for Startups Accelerator** | Mentor | Guiding early-stage founders on technical strategy |
+| **Build with Gems** | Mentor (2025) | Mentored 10 developers on AI integration |
+
+**Total developers trained/mentored: 1000+**
+
 ---
 
 ### 🛠️ Tech Stack & Expertise
@@ -18,12 +32,12 @@ I am a passionate **Senior Frontend Engineer** and a **Mentor for the Google for
 
 ---
 
-### 🚀 Recent Projects
+### 🚀 Open Source Projects
 
-- [**Flaggy**](https://github.com/babatundelmd/flaggy) - Learn flags, stay flaggy.
+- [**Flaggy**](https://github.com/babatundelmd/flaggy) - Learn world flags, stay flaggy.
 - [**ngx-toast-alerts**](https://github.com/babatundelmd/ngx-toast-alerts) - Lightweight and customizable Angular Toast Alerts.
 - [**Angular Signal Form Generator**](https://github.com/babatundelmd/angular-signal-form-generator) - A VS Code extension to generate Angular Signal Forms from interfaces.
-- [**PixelMedic**](https://github.com/babatundelmd/pixelmedic) - Modern healthcare management platform.
+- [**PixelMedic**](https://github.com/babatundelmd/pixelmedic) - Modern pixel health detector.
 - [**ng-content-generator**](https://github.com/babatundelmd/ng-content-generator) - An intelligent content generation platform built with Angular and Gemini AI.
 ---
 
@@ -35,7 +49,7 @@ I love sharing my journey and technical insights with the community. You can fin
 - **DevFest Talks 2025**:
   - [**DevFest Akure**](https://www.instagram.com/p/DRm0CJaDIF4/?igsh=YTlwZXA0MDRkcjMw)
   - [**DevFest Ado-Ekiti**](https://www.instagram.com/p/DQ_uJdljOpj/?igsh=MWxvYm54NWpieWZ3ZA==)
-  - [**DevFest Pwani**](https://youtu.be/9jbJDay46KM?t=281)
+  - [**DevFest Pwani**](https://youtu.be/9jbJDay46KM?t=281)(Kenya)
 
 ---
 
