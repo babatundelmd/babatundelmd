@@ -62,13 +62,6 @@ I regularly write about Angular, performance, and modern web architecture.
 
 ---
 
-### 📊 GitHub Stats
-
-![Babatunde's GitHub stats](https://github-readme-stats.vercel.app/api?username=babatundelmd&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=babatundelmd&layout=compact&theme=radical)
-
----
-
 ### 📫 Connect with Me
 - **LinkedIn**: [/in/babatundelmd](https://linkedin.com/in/babatundelmd)
 - **Twitter**: [@babatundelmd](https://twitter.com/babatundelmd)
