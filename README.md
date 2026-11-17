@@ -13,7 +13,7 @@ By day I lead engineering on **Checkout at Flutterwave**. I've also built fronte
 | Program | Role | Impact |
 |---------|------|--------|
 | **GDG Ojo-Festac** | Lead (2018–2025) | Organised DevFests, workshops and study jams for 7 years |
-| **Google for Startups Accelerator** | Mentor | Guided founders on technical strategy (eJoobi, Guardian Health, RapidHuman AI, Propela Health) |
+| **Google for Startups Accelerator** | Mentor | Guided founders on technical strategy (eJoobi, Guardian Health, RapidHuman AI) |
 | **Andela Learning Community** | Mentor (Cohorts 1–3) | Trained hundreds of developers |
 | **Build with Gems** | Mentor (2025) | Mentored 10 developers |
 | **Google Student Ambassador** | Ambassador (2013–2014) | Campus outreach and developer education |
@@ -24,16 +24,13 @@ By day I lead engineering on **Checkout at Flutterwave**. I've also built fronte
 
 ### ☁️ Google Cloud & AI
 
-I design and ship AI features on Google Cloud, and help startups get from idea to working architecture.
+I design and ship AI features on Google Cloud, and help startups get from idea to working architecture. Recent work includes:
 
-**Propela Health: AI sprint mentor (Nov 2026)**
-Paired with Propela Health, a South African talent marketplace for nurses, I co-designed their Google Cloud architecture and shipped a working service with the team:
-
-- **CV extraction on Cloud Run:** a Node service calling **Gemini on Vertex AI** with a structured JSON schema to turn nurse CVs into profile data, with field validation (registration numbers, date order). Deployed in `africa-south1`, private behind IAM.
-- **Matching engine design:** replaced scores that bunched at 93–100 with layered gates, weighted criteria, semantic similarity and Gemini-written explanations.
-- **Platform architecture:** Cloud Run for services, Vertex AI for extraction and explanations, Pub/Sub for events, Firestore for config, BigQuery for the learning loop, and ADK / Agent Engine for orchestration.
-- **API design:** a 13-endpoint OpenAPI spec covering onboarding, jobs, matching and calibration.
-- **Privacy by design:** a pipeline that builds anonymous career-pathway data from CVs, checked with **Sensitive Data Protection (Cloud DLP)** before storage in BigQuery, with POPIA safeguards.
+- **AI document extraction:** serverless services on **Cloud Run** that use **Gemini on Vertex AI** with structured JSON schemas to turn unstructured documents like CVs into validated data, kept private behind IAM.
+- **Explainable matching:** scoring systems that combine rule-based gates, weighted criteria and semantic similarity, with Gemini writing a plain-language reason for each result.
+- **Event-driven architecture:** Cloud Run, Pub/Sub, Firestore, BigQuery and ADK / Agent Engine working together for AI agents and data pipelines.
+- **API design:** OpenAPI specs that let frontend and backend teams build in parallel.
+- **Privacy by design:** pipelines that strip personal data and check it with **Sensitive Data Protection (Cloud DLP)** before analytics in BigQuery, in line with data protection law.
 
 ---
 
