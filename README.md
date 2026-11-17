@@ -1,6 +1,6 @@
 # Hi there, I'm Babatunde 👋
 
-### 👨‍💻 Angular GDE | Senior Frontend Engineer | 1000+ Developers Trained | Google for Startups Accelerator Mentor
+### 👨‍💻 Google Developer Expert Angular | Engineering Manager | 1000+ Developers Trained | Google for Startups Accelerator Mentor (ejoobi,  Guardian Health, Rapidhuman Ai, Propella)
 
 I build high-performance, scalable web applications and help developers across Africa level up through mentorship and community programs.
 ---
@@ -11,9 +11,9 @@ I build high-performance, scalable web applications and help developers across A
 |---------|------|--------|
 | **GDG Ojo-Festac** | Lead (2018–2025) | 7 years organizing events, workshops, and study jams |
 | **Andela Learning Community** | Mentor (Cohorts 1, 2, 3) | Trained hundreds of developers across multiple cohorts |
-| **Google Student Ambassador** | Ambassador | Campus outreach and developer education |
+| **Google Student Ambassador** | Ambassador (2013 - 2014) | Campus outreach and developer education |
 | **Google for Startups Accelerator** | Mentor | Guiding early-stage founders on technical strategy |
-| **Build with Gems** | Mentor (2025) | Mentored 10 developers on AI integration |
+| **Build with Gems** | Mentor (2025) | Mentored 10 developers |
 
 **Total developers trained/mentored: 1000+**
 
@@ -36,7 +36,8 @@ I build high-performance, scalable web applications and help developers across A
 
 - [**Flaggy**](https://github.com/babatundelmd/flaggy) - Learn world flags, stay flaggy.
 - [**ngx-toast-alerts**](https://github.com/babatundelmd/ngx-toast-alerts) - Lightweight and customizable Angular Toast Alerts.
-- [**Angular Signal Form Generator**](https://github.com/babatundelmd/angular-signal-form-generator) - A VS Code extension to generate Angular Signal Forms from interfaces.
+- [**vue-toast-alerts**](https://github.com/babatundelmd/vue-toast-alerts) - Lightweight and customizable Vue Toast Alerts.
+- [**svelte-toast-alerts**](https://github.com/babatundelmd/svelte-toast-alerts) - Lightweight and customizable Svelte Toast Alerts.
 - [**PixelMedic**](https://github.com/babatundelmd/pixelmedic) - Modern pixel health detector.
 - [**ng-content-generator**](https://github.com/babatundelmd/ng-content-generator) - An intelligent content generation platform built with Angular and Gemini AI.
 ---
