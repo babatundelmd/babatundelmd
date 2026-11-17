@@ -13,7 +13,7 @@ By day I lead engineering on **Checkout at Flutterwave**. I've also built fronte
 | Program | Role | Impact |
 |---------|------|--------|
 | **GDG Ojo-Festac** | Lead (2018–2025) | Organised DevFests, workshops and study jams for 7 years |
-| **Google for Startups Accelerator** | Mentor | Guided founders on technical strategy (eJoobi, Guardian Health, RapidHuman AI) |
+| **Google for Startups Accelerator** | Mentor | Guided founders on technical strategy (eJoobi, Guardian Health, RapidHuman AI, Propella) |
 | **Andela Learning Community** | Mentor (Cohorts 1–3) | Trained hundreds of developers |
 | **Build with Gems** | Mentor (2025) | Mentored 10 developers |
 | **Google Student Ambassador** | Ambassador (2013–2014) | Campus outreach and developer education |
