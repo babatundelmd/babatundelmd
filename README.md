@@ -1,6 +1,6 @@
 # Hi there, I'm Babatunde 👋
 
-### 👨‍💻 Google Developer Expert Angular | Engineering Manager | 1000+ Developers Trained | Google for Startups Accelerator Mentor (ejoobi,  Guardian Health, Rapidhuman Ai, Propella)
+### 👨‍💻 Google Developer Expert, Angular | Engineering Manager | 1000+ Developers Trained | Google for Startups Accelerator Mentor (ejoobi,  Guardian Health, Rapidhuman Ai, Propella)
 
 I build high-performance, scalable web applications and help developers across Africa level up through mentorship and community programs.
 ---
